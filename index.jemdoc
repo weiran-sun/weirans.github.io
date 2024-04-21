@@ -1,0 +1,68 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+# = Wuyang Chen
+= Welcome to the DeLTA Lab
+== "DeLTA": _D_esigning D_e_ep _L_earning in Principle: From _T_heory to _A_pplications\n
+PI: Wuyang Chen, Assistant Professor (wuyang at sfu dot ca)\n
+[https://www.sfu.ca/computing.html The School of Computing Science], [https://www.sfu.ca/ Simon Fraser University]
+
+~~
+{}{img_left}{images/sfu2.jpeg}{SFU}{640px}{213px}{images/sfu2.jpeg}
+~~
+
+# {}{img_left}{images/wuyang_chen.jpg}{Wuyang Chen SFU}{173px}{225px}{images/wuyang_chen.jpg}
+
+
+
+== Research Overview
+
+At the core, we develop *principled deep learning methods*
+([https://www.nsf.gov/news/news_summ.jsp?cntn_id=304639&org=CISE _1_], [https://arxiv.org/abs/2102.11535 _2_], [https://openreview.net/forum?id=H94a1_Pyr-6 _3_], [https://arxiv.org/abs/2205.05662 _4_]),
+inspired by deep learning theory;
+and we address *scientific problems*, including scientific machine learning ([https://arxiv.org/abs/2402.15734 _5_])
+and bioinformatics ([https://www.medrxiv.org/content/10.1101/2024.03.17.24304438v1.full.pdf _6_]).
+
+We are also interested in a broad range of topics, including: 
+LLM ([https://arxiv.org/abs/2305.12281 _7_], [https://openreview.net/forum?id=6mLjDwYte5 _8_]),
+computer vision  ([https://arxiv.org/abs/2404.07448 _9_], [https://arxiv.org/abs/2112.09747 _10_]),
+model efficiency ([https://dl.acm.org/doi/10.1145/3510835 _11_], [https://arxiv.org/abs/2006.08198 _12_]),
+self-supervised learning ([https://openreview.net/forum?id=F8whUO8HNbP _13_], [https://arxiv.org/abs/2007.06965 _14_]),
+automated machine learning (AutoML) ([https://arxiv.org/abs/1912.10917 _15_]),
+etc.
+
+
+
+~~~ Advertisement
+
+We actively look for self-motivated and proactive students to join us. You are welcome to email the PI (Wuyang Chen) with your resume and a short description of your research plans/interests.
+
+The application for Fall 2024 entry is closed. We have openings for Spring 2025 and Fall 2025 entry.
+
+For Ph.D. applicants, please apply to the [https://www.sfu.ca/computing/prospective-students/graduate-students/admissions.html _CS @ SFU_] and mention the PI's name (Wuyang Chen) in your application.
+
+# For prospective students or interns who want to work with me in short term, please fill out [ this form] so that we could find a suitable project for you. 
+
+~~~
+
+== News
+
+
+# https://cvpr2024-tutorial-low-dim-models.github.io/
+# Google Gemna
+
+\[4/2024\]\n
+- Invited talk at AI4Science Seminar Series, Amazon AWS
+- The DeLTA group welcomes 3 new members: Yuqiu Liu, Jialin Song, Mauricio Soroco
+
+\[3/2024\]\n
+- Dr. Chen is grateful to receive the [https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp NSERC Discovery Grant]\n
+- 1 paper accepted in ICLR workshop [https://ai4diffeqtnsinsci.github.io/ AI4DiffEqtnsInSci]
+
+\[2/2024\] 1 paper accepted in CVPR'2024
+
+\[1/2024\] 2 papers accepted in ICLR'2024
+
+
+# == Sponsor
+

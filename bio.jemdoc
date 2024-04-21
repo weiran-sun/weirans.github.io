@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= Short Bio of Wuyang Chen
+[https://www.sfu.ca/computing.html The School of Computing Science], [https://www.sfu.ca/ Simon Fraser University]
+
+Dr. Wuyang Chen is an tenure-track Assistant Professor in Computing Science at Simon Fraser University.
+Previously, he was a postdoc researcher in Statistics at the University of California, Berkeley.
+He obtained his Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin in 2023.
+Dr. Chen’s research focuses on theoretical understanding of deep networks and related applications in foundation models, AutoML, computer vision, and scientific machine learning.
+Dr. Chen also works on domain adaptation/generalization and self-supervised learning.
+He has published papers at CVPR, ECCV, ICLR, ICML, Neurips, etc.
+Dr. Chen’s work on training-free neural architecture search was highlighted as the "Featured Advances in Artificial Intelligence" in the National Science Foundation (NSF) newsletter in 2022.
+Dr. Chen co-organized the 4th and 5th versions of the UG2+ workshop and challenge at CVPR in 2021 and 2022.
+He also serves on the board of the One World Seminar Series on the Mathematics of Machine Learning.

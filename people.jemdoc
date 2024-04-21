@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= DeLTA Lab - People
+[https://www.sfu.ca/computing.html The School of Computing Science], [https://www.sfu.ca/ Simon Fraser University]
+
+== Principal Investigator
+~~
+{}{img_left}{images/wuyang_chen.jpg}{Wuyang Chen SFU}{115}{150}{images/wuyang_chen.jpg}
+~~
+Wuyang Chen\n
+wuyang at sfu dot ca\n
+Tenure-track Assistant Professor\n
+[https://www.sfu.ca/computing.html The School of Computing Science], [https://www.sfu.ca/ Simon Fraser University]\n
+\[[./bio.html Bio]\]
+# \[[https://github.com/delta-lab-ai Github]\]
+\[[https://scholar.google.com/citations?user=RHOcEtsAAAAJ&hl=en Google Scholar]\]
+\[[https://www.linkedin.com/in/wuyangchen/ LinkedIn]\]
+{{<a href="https://twitter.com/WuyangC?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}}
+
+== Current Ph.D. students
+
+- Yuqiu Liu (Fall 2024 - )
+- Jialin Song (Fall 2024 - )
+- Mauricio Soroco (Fall 2024 - )
