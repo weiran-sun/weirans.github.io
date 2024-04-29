@@ -55,7 +55,7 @@ IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2022 \[[http
 
 - *W. Chen*\#, W. Huang\#, X. Gong, B. Hanin, Z. Wang\n
 “Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis”\n
-Advances in Neural Information Processing Systems (NeurIPS), 2022.
+Advances in Neural Information Processing Systems (NeurIPS), 2022. \[[https://arxiv.org/abs/2205.05662 Paper]\] \[[https://github.com/VITA-Group/architecture_convergence Code]\]
 
 - *W. Chen*, X. Du, F. Yang, L. Beyer, X. Zhai, T. Lin, H. Chen, J. Li, X. Song, Z. Wang, D. Zhou\n
 "A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation"\n
