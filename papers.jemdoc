@@ -25,13 +25,19 @@ ACM Transactions on Design Automation of Embedded Systems (TODAES), 2021. \[[htt
 
 # \[[ Paper]\] \[[ Code]\]
 
+- *W. Chen*\#, J. Song\#, P. Ren, S. Subramanian, D. Morozov, MW. Mahoney\n
+"Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning"\n
+NeurIPS 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
+# AI4DifferentialEquations Workshop, International Conference on Learning Representations (ICLR), 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
+
+- J. Wu\*, W. Huang, M. Bai, X. Hu, Y. Duan, *W. Chen*\n
+"Training-free Design of Augmentations with Data-centric Principles"\n
+ICML 2024 Workshop AI4Science, 2024. \[[https://openreview.net/forum?id=kmAdBRaShI Paper]\]
+# https://openreview.net/forum?id=8rYje1pL6N
+
 - J. Xu\*, *W. Chen*, Y. Zhao, Y. Wei\n
 "Transferable and Principled Efficiency for Open-Vocabulary Segmentation"\n
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024. \[[https://arxiv.org/abs/2404.07448 Paper]\] \[[https://github.com/Xujxyang/OpenTrans Code]\]
-
-- *W. Chen*\#, J. Song\#, P. Ren, S. Subramanian, D. Morozov, MW. Mahoney\n
-"Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning"\n
-AI4DifferentialEquations Workshop, International Conference on Learning Representations (ICLR), 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
 
 - *W. Chen*, J. Wu, Z. Wang, B. Hanin\n
 "Principled Architecture-aware Scaling of Hyperparameters"\n
