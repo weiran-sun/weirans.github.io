@@ -41,11 +41,11 @@ and we address *scientific problems*, including scientific machine learning ([ht
 and bioinformatics ([https://www.medrxiv.org/content/10.1101/2024.03.17.24304438v1.full.pdf _6_]).
 
 We are also interested in a broad range of topics, including: 
-LLM ([https://arxiv.org/abs/2305.12281 _7_], [https://openreview.net/forum?id=6mLjDwYte5 _8_]),
-computer vision  ([https://arxiv.org/abs/2404.07448 _9_], [https://arxiv.org/abs/2112.09747 _10_]),
-model efficiency ([https://dl.acm.org/doi/10.1145/3510835 _11_], [https://arxiv.org/abs/2006.08198 _12_]),
-self-supervised learning ([https://openreview.net/forum?id=F8whUO8HNbP _13_], [https://arxiv.org/abs/2007.06965 _14_]),
-automated machine learning (AutoML) ([https://arxiv.org/abs/1912.10917 _15_]),
+LLM ([https://arxiv.org/abs/2305.12281 _7_], [https://openreview.net/forum?id=6mLjDwYte5 _8_], [https://arxiv.org/abs/2410.04472 _9_]),
+computer vision  ([https://arxiv.org/abs/2404.07448 _10_], [https://arxiv.org/abs/2112.09747 _11_]),
+model efficiency ([https://dl.acm.org/doi/10.1145/3510835 _12_], [https://arxiv.org/abs/2006.08198 _13_]),
+self-supervised learning ([https://openreview.net/forum?id=F8whUO8HNbP _14_], [https://arxiv.org/abs/2007.06965 _15_]),
+automated machine learning (AutoML) ([https://arxiv.org/abs/1912.10917 _16_]),
 etc.
 
 
@@ -79,22 +79,19 @@ For Ph.D. applicants, please apply to the [https://www.sfu.ca/computing/prospect
 # Talk at SFU Mathematics of Computation, Application and Data ("MOCAD") Seminar
 # https://researchseminars.org/talk/AppliedMath/56/
 
-# \[10/2024\]\n
-# Talk at Challenges & opportunities in Foundation Models: accelerating scientific discovery, explainability, efficiency and security [Univ. Geneva]
-# https://www.unige.ch/math/GIST/events/upcoming-events/liouville-quantum-gravity-continuum-discrete
+\[10/2024\] Invited talk at [https://www.unige.ch/math/GIST/events/upcoming-events/liouville-quantum-gravity-continuum-discrete Challenges & opportunities in Foundation Models: accelerating scientific discovery, explainability, efficiency and security], University of Geneva
+
 
 \[9/2024\] 1 paper accepted in NeurIPS'2024
 
-\[7/2024\]\n
-- Our NeurIPS 2024 workshop proposal, "[https://fm-science.github.io/ Foundation Models for Science: Progress, Opportunities, and Challenges]," is accepted. Please consider [https://fm-science.github.io/index.html\#cfp submitting] your great work to our workshop ([https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/FM4Science OpenReview])!
+\[7/2024\] Our NeurIPS 2024 workshop proposal, "[https://fm-science.github.io/ Foundation Models for Science: Progress, Opportunities, and Challenges]," is accepted. Please consider [https://fm-science.github.io/index.html\#cfp submitting] your great work to our workshop ([https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/FM4Science OpenReview])!
 
 \[6/2024\]\n
 - Dr. Chen is humbled and grateful that his dissertation, "[https://repositories.lib.utexas.edu/items/05697ca4-b711-4f1b-8082-49ff75e75ca2 Demystifying deep network architectures: from theory to applications]," received the [https://x.com/INNSociety/status/1821231611217649833 INNS 2024 Doctoral Dissertation Award] and the [https://www.ischools.org/post/ischools-doctoral-dissertation-award-2024 iSchools Doctoral Dissertation Award 2024]. See also the [https://www.ece.utexas.edu/news/wuyang-chen-receives-two-dissertation-awards UT ECE news].\n
 - Invited talk at [https://fedvision.github.io/fedvision2024/index.html 3rd Workshop on Federated Learning for Computer Vision] in CVPR 2024.
 - Invited panel session at [https://cvpr2024-tutorial-low-dim-models.github.io/ Learning Deep Low-Dimensional Models from High-Dimensional Data: From Theory to Practice] in CVPR 2024.
 
-\[5/2024\]\n
-- Dr. Chen is grateful to receive the Google GCP Credit Award (Gemma Academic Program)\n
+\[5/2024\] Dr. Chen is grateful to receive the Google GCP Credit Award (Gemma Academic Program)\n
 
 \[4/2024\]\n
 - Invited talk at AI4Science Seminar Series, Amazon AWS
