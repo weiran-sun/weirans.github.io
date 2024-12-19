@@ -35,15 +35,16 @@ If you are attending NeurIPS 2024, you are welcome to join the following events:
 
 == Research Overview
 
-At the core, we develop *principled deep learning methods*
-([https://www.nsf.gov/news/news_summ.jsp?cntn_id=304639&org=CISE _1_], [https://arxiv.org/abs/2102.11535 _2_], [https://openreview.net/forum?id=H94a1_Pyr-6 _3_], [https://arxiv.org/abs/2205.05662 _4_]),
-inspired by deep learning theory;
-and we address *scientific problems*, including scientific machine learning ([https://arxiv.org/abs/2402.15734 _5_])
-and bioinformatics ([https://www.medrxiv.org/content/10.1101/2024.03.17.24304438v1.full.pdf _6_]).
 
-We are also interested in a broad range of topics, including: 
-LLM ([https://arxiv.org/abs/2305.12281 _7_], [https://openreview.net/forum?id=6mLjDwYte5 _8_], [https://arxiv.org/abs/2410.04472 _9_]),
-computer vision  ([https://arxiv.org/abs/2404.07448 _10_], [https://arxiv.org/abs/2112.09747 _11_]),
+
+1. We *make scientific machine learning (SciML) useful in practice*. For example, we develop neural operators ([https://arxiv.org/abs/2402.15734 _1_]) for 3D reconstruction of real-world fluids ([https://arxiv.org/abs/2412.13897 _2_]).
+
+2. We develop *principled deep learning methods*
+([https://www.nsf.gov/news/news_summ.jsp?cntn_id=304639&org=CISE _3_], [https://arxiv.org/abs/2102.11535 _4_], [https://openreview.net/forum?id=H94a1_Pyr-6 _5_], [https://arxiv.org/abs/2205.05662 _6_])
+inspired by deep learning theory.
+
+3. We are broadly interested in LLM ([https://arxiv.org/abs/2305.12281 _7_], [https://openreview.net/forum?id=6mLjDwYte5 _8_], [https://arxiv.org/abs/2410.04472 _9_]),
+computer vision ([https://arxiv.org/abs/2404.07448 _10_], [https://arxiv.org/abs/2112.09747 _11_]),
 model efficiency ([https://dl.acm.org/doi/10.1145/3510835 _12_], [https://arxiv.org/abs/2006.08198 _13_]),
 self-supervised learning ([https://openreview.net/forum?id=F8whUO8HNbP _14_], [https://arxiv.org/abs/2007.06965 _15_]),
 automated machine learning (AutoML) ([https://arxiv.org/abs/1912.10917 _16_]),
