@@ -4,7 +4,7 @@
 = DeLTA Lab - Publication List
 [https://www.sfu.ca/computing.html The School of Computing Science], [https://www.sfu.ca/ Simon Fraser University]
 
-* denotes the author to be a DeLTA student or Dr. Chen's mentee. \# denotes equal contributions.
+* denotes DeLTA group member or Dr. Chen's mentee. \# denotes equal contributions.
 
 == Journal Paper
 
@@ -30,12 +30,12 @@ ACM Transactions on Design Automation of Embedded Systems (TODAES), 2021. \[[htt
 NeurIPS 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
 # AI4DifferentialEquations Workshop, International Conference on Learning Representations (ICLR), 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
 
-- J. Wu\*, W. Huang, M. Bai, X. Hu, Y. Duan, *W. Chen*\n
+- J. Wu, W. Huang, M. Bai, X. Hu, Y. Duan, *W. Chen*\n
 "Training-free Design of Augmentations with Data-centric Principles"\n
 ICML 2024 Workshop AI4Science, 2024. \[[https://openreview.net/forum?id=kmAdBRaShI Paper]\]
 # https://openreview.net/forum?id=8rYje1pL6N
 
-- J. Xu\*, *W. Chen*, Y. Zhao, Y. Wei\n
+- J. Xu, *W. Chen*, Y. Zhao, Y. Wei\n
 "Transferable and Principled Efficiency for Open-Vocabulary Segmentation"\n
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024. \[[https://arxiv.org/abs/2404.07448 Paper]\] \[[https://github.com/Xujxyang/OpenTrans Code]\]
 
@@ -121,9 +121,17 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. (Oral) 
 
 == Preprint
 
-- T. Wu, *W. Chen*, Z. Zhang\n
+- Y. Liu\*\#, J. Xu\#, M. Soroco, Y. Wei, *W Chen*\n
+"Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model"\n
+/arXiv, 2412.13897/ \[[https://arxiv.org/abs/2412.13897 Paper]\]
+
+- J. Xu\#, *W Chen*\#, L. Li, Y. Zhao, Y. Wei\n
+"Collapsed Language Models Promote Fairness"\n
+/arXiv, 2410.04472/ \[[https://arxiv.org/abs/2410.04472 Paper]\] \[[https://github.com/Xujxyang/Fairness-NC-main Code]\]
+
+- T. Wu\#, J. Wu\#, Z. Zhang, *W. Chen*\n
 "Training-free Design of Deep Networks as Ensembles of Clinical Experts"\n
-/medRxiv, 2024.03. 17.24304438/ \[[https://www.medrxiv.org/content/10.1101/2024.03.17.24304438v1.full.pdf Paper]\]
+/medRxiv, 2024.03.17.24304438/ \[[https://www.medrxiv.org/content/10.1101/2024.03.17.24304438v1.full.pdf Paper]\]
 
 # == Dissertation
 
