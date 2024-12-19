@@ -25,9 +25,10 @@ ACM Transactions on Design Automation of Embedded Systems (TODAES), 2021. \[[htt
 
 # \[[ Paper]\] \[[ Code]\]
 
+
 - *W. Chen*\#, J. Song\#\*, P. Ren, S. Subramanian, D. Morozov, MW. Mahoney\n
 "Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning"\n
-NeurIPS 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
+NeurIPS 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\] \[[https://github.com/delta-lab-ai/data_efficient_nopt Code]\]
 # AI4DifferentialEquations Workshop, International Conference on Learning Representations (ICLR), 2024. \[[https://arxiv.org/abs/2402.15734 Paper]\]
 
 - J. Wu, W. Huang, M. Bai, X. Hu, Y. Duan, *W. Chen*\n
