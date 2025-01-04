@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
 # The first line of this file is a special command that tells jemdoc which menu
 # entry in the file named MENU to associate this page with.
-# = Wuyang Chen
 = Welcome to the DeLTA Lab
 == "DeLTA": _D_esigning D_e_ep _L_earning in Principle: From _T_heory to _A_pplications\n
 PI: Wuyang Chen, Assistant Professor (wuyang at sfu dot ca)\n

@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= Teaching
+
+== CMPT 420/728 Deep Learning (Spring 2025)
+- Syllabus: [https://docs.google.com/document/d/1zfNyASD3MD1Dw95EPxtRnS5j7R6ewJ8EQhUACPqPQnQ/edit?usp=sharing Google Doc]
+- Instructor: Wuyang Chen (wuyang@sfu.ca)
+- TAs: Qimin Chen (qca43@sfu.ca), Zhen Li (zla247@sfu.ca)
+- Classroom: AQ 3154
+- Time: Monday 12:30-14:20,  Wednesday 12:30-13:20
+- Office Hour:
+-- Wuyang Chen: Wednesday 13:30-14:30 at AQ 5030
+-- Qimin Chen: Monday 10:00 - 11:00 am (Zoom: [https://sfu.zoom.us/j/9051564649 {{https://sfu.zoom.us/j/9051564649}}])
+-- Zhen Li: Friday 10:00-11:00am (Zoom: [https://us05web.zoom.us/j/86100082671?pwd=8r3zz3IeyYK9RDIT5Le4FPVoue7tGT.1 {{https://us05web.zoom.us/j/86100082671?pwd=8r3zz3IeyYK9RDIT5Le4FPVoue7tGT.1}}])
+- Canvas: [https://canvas.sfu.ca/courses/88560 {{https://canvas.sfu.ca/courses/88560}}]
+- Slack: [https://join.slack.com/t/cmpt420728dee-pg04796/shared_invite/zt-2wz0zl2zn-WM303SQWt6G61N7SLJK~MQ Invite Link]
+
+
+
+
+
+# = DA-GA3001: Modern Topics in Statistical Learning Theory
+# 
+# ~~~
+# Center for Data Science, New York University, Spring 2023
+# 
+# Instructor: Qi Lei
+# ~~~
+# 
+# Welcome to the DA-GA3001 course webpage for Spring 2023.
+# 
+# == Syllabus
+# - [ds3001/syllabus.pdf syllabus]
+# 
+# == Scribed Notes
+# 
+# - Lecture 1: [ds3001/lecture_1.pdf Basics of Machine Learning]
+# 
+# - Lecture 2: [ds3001/lecture_2.pdf Generalization bound: concentration inequality]
+# 
+# 
+# - Lecture 3: [ds3001/lecture_3.pdf Generalization bound: uniform convergence]
+# 
+# - Lecture 4: [ds3001/lecture_4.pdf Generalization bound: complexity measure]
+# 
+# - Lecture 5: [ds3001/lecture_5.pdf Theory of deep learning: (non-convex) optimization]
+# 
+# - Lecture 6: [ds3001/lecture_6.pdf Theory of deep learning: neural tangent kernel]
+# 
+# 
+# - Lecture 7: [ds3001/lecture_7.pdf Theory of deep learning: implicit/algorithmic regularization]
+# 
+# - Lecture 8: [ds3001/lecture_8.pdf Meta learning]
+# 
+# - Lecture 9: [ds3001/lecture_9.pdf Domain adaptation]
+# 
+# - Lecture 10: [ds3001/lecture_10.pdf Domain generalization]
+# 
+# 
+# - Lecture 11: [ds3001/lecture_11.pdf Data augmentation]
+# 
+# - Lecture 12: [ds3001/lecture_12.pdf Self-supervised learning]
+# 
+# - Lecture 13: [ds3001/lecture_13.pdf Transformer]
