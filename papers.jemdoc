@@ -25,6 +25,10 @@ ACM Transactions on Design Automation of Embedded Systems (TODAES), 2021. \[[htt
 
 # \[[ Paper]\] \[[ Code]\]
 
+- J. Xu\#, *W Chen*\#, L. Li, Y. Zhao, Y. Wei\n
+"Collapsed Language Models Promote Fairness"\n
+ICLR 2025. \[[https://arxiv.org/abs/2410.04472 Paper]\] \[[https://github.com/Xujxyang/Fairness-NC-main Code]\]
+# /arXiv, 2410.04472/ \[[https://arxiv.org/abs/2410.04472 Paper]\] \[[https://github.com/Xujxyang/Fairness-NC-main Code]\]
 
 - *W. Chen*\#, J. Song\#\*, P. Ren, S. Subramanian, D. Morozov, MW. Mahoney\n
 "Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning"\n
@@ -125,10 +129,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. (Oral) 
 - Y. Liu\*\#, J. Xu\#, M. Soroco, Y. Wei, *W Chen*\n
 "Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model"\n
 /arXiv, 2412.13897/ \[[https://arxiv.org/abs/2412.13897 Paper]\]
-
-- J. Xu\#, *W Chen*\#, L. Li, Y. Zhao, Y. Wei\n
-"Collapsed Language Models Promote Fairness"\n
-/arXiv, 2410.04472/ \[[https://arxiv.org/abs/2410.04472 Paper]\] \[[https://github.com/Xujxyang/Fairness-NC-main Code]\]
 
 - T. Wu\#, J. Wu\#, Z. Zhang, *W. Chen*\n
 "Training-free Design of Deep Networks as Ensembles of Clinical Experts"\n
