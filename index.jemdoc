@@ -36,17 +36,21 @@ PI: Wuyang Chen, Assistant Professor (wuyang at sfu dot ca)\n
 
 
 
-1. We *make scientific machine learning (SciML) useful in practice*. For example, we develop neural operators ([https://arxiv.org/abs/2402.15734 _1_]) for 3D reconstruction of real-world fluids ([https://arxiv.org/abs/2412.13897 _2_]).
+1. We *build AI methods for scientific problems*.
+
+a) We build LLM for autoformalization, program synthesis, and reasoning on PDE control problems \[[https://arxiv.org/abs/2502.00963 _1_]];
+
+b) We develop neural operators \[[https://arxiv.org/abs/2402.15734 _2_]] for 3D reconstruction of real-world fluids \[[https://arxiv.org/abs/2412.13897 _3_]].
 
 2. We develop *principled deep learning methods*
-([https://www.nsf.gov/news/news_summ.jsp?cntn_id=304639&org=CISE _3_], [https://arxiv.org/abs/2102.11535 _4_], [https://openreview.net/forum?id=H94a1_Pyr-6 _5_], [https://arxiv.org/abs/2205.05662 _6_])
+\[[https://www.nsf.gov/news/news_summ.jsp?cntn_id=304639&org=CISE _4_], [https://arxiv.org/abs/2102.11535 _5_], [https://openreview.net/forum?id=H94a1_Pyr-6 _6_], [https://arxiv.org/abs/2205.05662 _7_]]
 inspired by deep learning theory.
 
-3. We are broadly interested in LLM ([https://arxiv.org/abs/2305.12281 _7_], [https://openreview.net/forum?id=6mLjDwYte5 _8_], [https://arxiv.org/abs/2410.04472 _9_]),
-computer vision ([https://arxiv.org/abs/2404.07448 _10_], [https://arxiv.org/abs/2112.09747 _11_]),
-model efficiency ([https://dl.acm.org/doi/10.1145/3510835 _12_], [https://arxiv.org/abs/2006.08198 _13_]),
-self-supervised learning ([https://openreview.net/forum?id=F8whUO8HNbP _14_], [https://arxiv.org/abs/2007.06965 _15_]),
-automated machine learning (AutoML) ([https://arxiv.org/abs/1912.10917 _16_]),
+3. We are broadly interested in LLM \[[https://arxiv.org/abs/2305.12281 _8_], [https://openreview.net/forum?id=6mLjDwYte5 _9_], [https://arxiv.org/abs/2410.04472 _10_]],
+computer vision \[[https://arxiv.org/abs/2404.07448 _11_], [https://arxiv.org/abs/2112.09747 _12_]],
+model efficiency \[[https://dl.acm.org/doi/10.1145/3510835 _13_], [https://arxiv.org/abs/2006.08198 _14_]],
+self-supervised learning \[[https://openreview.net/forum?id=F8whUO8HNbP _15_], [https://arxiv.org/abs/2007.06965 _16_]],
+automated machine learning (AutoML) \[[https://arxiv.org/abs/1912.10917 _17_]],
 etc.
 
 
@@ -75,6 +79,13 @@ For Ph.D. applicants, please apply to the [https://www.sfu.ca/fas/study/future-g
 # AAAI
 # https://aaai.org/conference/aaai/aaai-25/new-faculty-highlights-program/
 
+
+# GaTech
+# Foundations of Artificial Intelligence Seminar Series
+# by Foundations of Artificial Intelligence @ Georgia Institute of Technology
+# https://foundationsofai.github.io/index.html
+
+
 # UCLA talk
 # https://www.cs.ucla.edu/upcoming-events/cs-201-wuyang-chen-simon-fraser-university/
 
@@ -82,7 +93,7 @@ For Ph.D. applicants, please apply to the [https://www.sfu.ca/fas/study/future-g
 \[1/2025\] 1 paper accepted in ICLR'2025
 
 \[12/2025\]\n
-- Dr. Chen is selcted by the [https://aaai.org/conference/aaai/aaai-25/new-faculty-highlights-call/ AAAI-2025 New Faculty Highlights program].
+- Dr. Chen is selcted by the [https://aaai.org/conference/aaai/aaai-25/new-faculty-highlights-program/ AAAI-2025 New Faculty Highlights program].
 - Our "[https://fm-science.github.io/ Foundation Models for Science]" workshop @ NeurIPS 2024 was a success! See [https://neurips.cc/virtual/2024/workshop/84714 video recordings] and [https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/FM4Science accepted papers].
 
 \[11/2024\]

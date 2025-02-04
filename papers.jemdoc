@@ -126,6 +126,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. (Oral) 
 
 == Preprint
 
+- M. Soroco\*\#, J. Song\*\#, M. Xia, K. Emond\*, W. Sun, *W. Chen*\n
+"PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs"\n
+/arXiv, 2502.00963/ \[[https://arxiv.org/abs/2502.00963 Paper]\] \[[https://pde-controller.github.io/ Project Webpage]\]
+
 - Y. Liu\*\#, J. Xu\#, M. Soroco, Y. Wei, *W Chen*\n
 "Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model"\n
 /arXiv, 2412.13897/ \[[https://arxiv.org/abs/2412.13897 Paper]\]
